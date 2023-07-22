@@ -1,1 +1,1 @@
-# kidmirror.com
+# kidmirror.github.io
